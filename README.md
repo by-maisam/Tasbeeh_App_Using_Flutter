@@ -1,4 +1,5 @@
-# flutter_app1
+# Tasbeeh_app_using_flutter
+Created During Semester Six -Spring 2026
 
 A new Flutter project.
 
